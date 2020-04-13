@@ -32,6 +32,8 @@ My current progress for the course can be viewed [here](https://www.freecodecamp
 
 #### Course Certifications
 
-:scroll: [Reponsive Web Design Certification](Link)
-:scroll: [JavaScript Algorithms and Data Structures](Link)
-:scroll: [Front End Libraries](Link)
+- [ ] :scroll: [Reponsive Web Design Certification](Link)
+
+- [ ] :scroll: [JavaScript Algorithms and Data Structures](Link)
+
+- [ ] :scroll: [Front End Libraries](Link)
