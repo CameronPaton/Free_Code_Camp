@@ -23,7 +23,7 @@ My current progress for the course can be viewed [here](https://www.freecodecamp
 - [x] :computer: [Tribute Page](https://codepen.io/CyberTiger008/full/aYOpLW)
 - [x] :computer: [Survery Form](https://codepen.io/CyberTiger008/full/wvKaWep)
 - [ ] :computer: [Product Landing Page](Link)
-- [ ] :computer: [Technical Documentation Page](Link)
+- [x] :computer: [Technical Documentation Page](https://codepen.io/CyberTiger008/full/VweLqJw)
 - [x] :computer: [Personal Portfolio Webpage](https://codepen.io/CyberTiger008/full/KByWZw)
 
 **JavaScript Algorithms and Datastructures**
